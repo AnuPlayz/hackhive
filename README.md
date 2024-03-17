@@ -1,6 +1,6 @@
 # Live Demo
 
-- [Live Working App](teamnexus.tech)
+- [Live Working App](https://teamnexus.tech)
 - [Presentation Link](https://www.canva.com/design/DAF9mDsvl8g/mXD-rwCxJOyp2VKYqxvNrg/view)
 
 ## Getting Started 
