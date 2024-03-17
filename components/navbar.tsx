@@ -18,6 +18,13 @@ export function Navbar() {
   return (
     <NavigationMenu>
       <NavigationMenuList>
+      <NavigationMenuItem>
+          <Link href="/" legacyBehavior passHref>
+            <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+              NexusAssist
+            </NavigationMenuLink>
+          </Link>
+        </NavigationMenuItem>
         <NavigationMenuItem>
           <Link href="https://app.teamnexus.tech" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>

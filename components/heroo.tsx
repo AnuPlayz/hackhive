@@ -7,21 +7,23 @@ export default function Heroo() {
     <section className="w-full py-12 md:py-24">
       <div className="container px-4 flex flex-col gap-4 md:gap-8 items-center md:grid md:grid-cols-2 md:items-stretch md:gap-0">
         <div className="flex flex-col gap-4 md:gap-2">
-          <h1 className="text-3xl font-bold tracking-tight">Meet Veronica</h1>
+          <h1 className="mt-10 scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0 text-center">
+            Meet Veronica
+          </h1>
           <p className="text-gray-500 dark:text-gray-400">
             Uncover the beauty of AI with our assistant and experience accessibility of webs like no another.
           </p>
           <p className="text-gray-500 dark:text-gray-400">
-          As an AI web guide, my role is to assist users in navigating a website, <br></br>
-          providing information, answering questions, helping with form submissions, clicking buttons,<br></br>
-           and performing other interactive tasks through voice commands.<br></br>
+            As an AI web guide, my role is to assist users in navigating a website, <br></br>
+            providing information, answering questions, helping with form submissions, clicking buttons,<br></br>
+            and performing other interactive tasks through voice commands.<br></br>
             I am here to make the user's experience on the website smoother and more efficient.
           </p>
           <br></br>
           <p className="text-gray-500 dark:text-gray-400">
-          As an AI web guide, my role is to assist users in navigating a website, <br></br>
-          providing information, answering questions, helping with form submissions, clicking buttons,<br></br>
-           and performing other interactive tasks through voice commands.<br></br>
+            As an AI web guide, my role is to assist users in navigating a website, <br></br>
+            providing information, answering questions, helping with form submissions, clicking buttons,<br></br>
+            and performing other interactive tasks through voice commands.<br></br>
             I am here to make the user's experience on the website smoother and more efficient.
           </p>
           <a
