@@ -21,7 +21,7 @@ export default function Home() {
           <Features />
         </div>
       </div>
-      <footer className="flex items-center justify-center">
+      <footer className="flex items-center justify-center p-7">
         <Footer />
       </footer>
     </>
